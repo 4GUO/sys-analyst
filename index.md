@@ -1,2 +1,2 @@
-[这里应该些什么]: ./note/hi	"缘起"
-
+###软考高级学习笔记
+https://geekabin.github.io/sys-architect/
